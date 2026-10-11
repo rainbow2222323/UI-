@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exp2</string>
+
+    <!-- 标题栏 -->
+    <string name="title_ui_code_mvc">UI Code and MVC</string>
+
+    <!-- 区1：动态添加 TextView -->
+    <string name="btn_add_text_view">ADD TEXTVIEW</string>
+    <string name="new_text_view_format">This is a new textView:%1$d</string>
+
+    <!-- 区2：MVC 模式的 ProgramAdviser -->
+    <string name="label_program_adviser">编程语言</string>
+    <string name="btn_query">查询</string>
+    <string name="adviser_result_hint">请选择编程语言后点击查询</string>
+    <string name="adviser_result_format">%1$s：%2$s</string>
+    <string name="advice_unknown">暂未收录该语言，敬请期待</string>
+    <string name="language_kotlin">Kotlin</string>
+    <string name="language_java">Java</string>
+    <string name="language_python">Python</string>
+    <string name="language_cpp">C++</string>
+    <string name="language_javascript">JavaScript</string>
+    <string name="advice_kotlin">Android 官方首推的现代语言，语法简洁、支持空安全，与 Java 完全互操作。</string>
+    <string name="advice_java">成熟的面向对象语言，生态庞大，是 Android 传统的开发语言。</string>
+    <string name="advice_python">语法简单易学，在数据分析与人工智能领域应用广泛。</string>
+    <string name="advice_cpp">高性能的系统级语言，常用于游戏引擎与底层开发。</string>
+    <string name="advice_javascript">Web 前端的核心语言，也可通过 Node.js 进行服务端开发。</string>
+</resources>

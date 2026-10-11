@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 区1（动态 TextView 区）配色 -->
+    <color name="area1_background">#4DD0E1</color>
+    <color name="area1_text_color">#01579B</color>
+
+    <!-- 区2（ProgramAdviser 区）配色 -->
+    <color name="area2_background">#76FF03</color>
+    <color name="area2_text_color">#212121</color>
+</resources>
